@@ -1,4 +1,4 @@
-#College Hostel-management-System
+# College Hostel-management-System
  College Hostel management using PHP and Mysql.
 #### Installation Steps(Configuration)
 1. Download and Unzip the file on your local system.
